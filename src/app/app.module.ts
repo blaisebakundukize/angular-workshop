@@ -8,11 +8,13 @@ import { FormsModule } from '@angular/forms';
 
 import { HomeComponent } from './home/home.component';
 import { MaterialModule } from './material.module';
+import { CoursesComponent } from './courses/courses.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
+    CoursesComponent
   ],
   imports: [
     BrowserModule,
