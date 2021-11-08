@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "angular-workshop"
+  "defaultProject": "angular-workshop",
+  "cli": {
+    "analytics": false
+  }
 }
